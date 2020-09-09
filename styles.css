@@ -60,10 +60,19 @@ body{
     font-size: 40px;
     font-weight: 600;
     margin-top: 100px;
+    padding-right: 50px ;
+    
+
 }
 
 .bottom-img{
     width: 100%;
+}
+
+.img-fluid{
+    padding-bottom: 75px;
+    padding-left: 40px;
+    padding-top: 20px;
 }
 
 
@@ -75,8 +84,9 @@ body{
 }
 
 .service-img{
-    width: 100px;
+    width: 140px;
     margin-top: 20px;
+    height: 150px;
 }
 
 .service{
@@ -146,6 +156,7 @@ body{
 
 
 
+
 /*------------------Testimonials--------------------------------*/
 
 #testimonials{
@@ -159,8 +170,8 @@ body{
 }
 
 .testimonials img{
-    height: 60px;
-    width: 60px;
+    height: 80px;
+    width: 80px;
     border-radius: 50%;
     border: 0 10px;
 
